@@ -1,0 +1,8 @@
+# Zip files
+*.zip
+
+# Rar files
+*.rar
+
+# 7z files
+*.7z
